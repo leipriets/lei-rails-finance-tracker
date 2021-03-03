@@ -4,6 +4,10 @@
 //     font-size: 3rem;
 // }
 
+.search-area {
+    padding-top: 50px;
+}
+
 .no-right-padding {
     padding-right: 0 !important;
 }
@@ -14,4 +18,10 @@
 
 .results-block {
     display: inline-block;
+    margin-bottom: 1rem;
+}
+
+.user-name {
+    margin-top: 3.5%;
+    padding-right: 5px;
 }
